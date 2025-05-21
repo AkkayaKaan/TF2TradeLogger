@@ -109,7 +109,7 @@ SHARED_SECRET=your_shared_secret
 
 **Kaan Akkaya**  
 Built for precision trading.  
-GitHub: [@kaanakkaya](https://github.com/AkkayaKaan)---
+GitHub: [@AkkayaKaan](https://github.com/AkkayaKaan)---
 
 ## ⚠️ Disclaimer
 
